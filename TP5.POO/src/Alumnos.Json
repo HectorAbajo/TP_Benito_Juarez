@@ -1,0 +1,249 @@
+[
+    {
+      "nombre": "pablo",
+      "apellido": "de la torre",
+      "dni": 19548523,
+      "idAlumno": "805f8e0f-039a-43f9-8d82-f1063283e8b6",
+      "contacto": "chispa@yahoo.com",
+      "materias": [
+        {
+          "nombre": "termodinamica",
+          "nota": 4
+        },
+        {
+          "nombre": "taller",
+          "nota": 7
+        },
+        {
+          "nombre": "quimica",
+          "nota": 10
+        },
+        {
+          "nombre": "dibujo tecnico",
+          "nota": 6
+        },
+        {
+          "nombre": "matematica",
+          "nota": 8
+        },
+        {
+          "nombre": "fisica",
+          "nota": 8
+        }
+      ],
+      "promedio": 7.17,
+      "profesores": [
+        "raul pandeles",
+        "sergio chevez",
+        "ruben calvi",
+        "ariel rivas",
+        "roxana cipitria",
+        "jose luis groppa"
+      ]
+    },
+    {
+      "nombre": "miguel",
+      "apellido": "amaya",
+      "dni": 31456852,
+      "idAlumno": "513606d5-f10e-4e47-b72d-6529851c52bc",
+      "contacto": "2494587632",
+      "materias": [
+        {
+          "nombre": "fisica",
+          "nota": 0
+        },
+        {
+          "nombre": "procesos",
+          "nota": 0
+        },
+        {
+          "nombre": "taller",
+          "nota": 0
+        },
+        {
+          "nombre": "termodinamica",
+          "nota": 0
+        },
+        {
+          "nombre": "matematica",
+          "nota": 0
+        },
+        {
+          "nombre": "dibujo tecnico",
+          "nota": 0
+        },
+        {
+          "nombre": "tecnologia",
+          "nota": 0
+        }
+      ],
+      "promedio": 0,
+      "profesores": [
+        "jose luis groppa",
+        "sergio chevez",
+        "raul pandeles",
+        "roxana cipitria",
+        "ariel rivas",
+        "norma barone"
+      ]
+    },
+    {
+      "nombre": "nicolas",
+      "apellido": "arregui",
+      "dni": 30458963,
+      "idAlumno": "ad0ebede-55b3-4aff-aa47-eb3edbb98f82",
+      "contacto": "nico@gmail.com",
+      "materias": [
+        {
+          "nombre": "quimica",
+          "nota": 8
+        },
+        {
+          "nombre": "procesos",
+          "nota": 9
+        },
+        {
+          "nombre": "electrotecnia",
+          "nota": 6
+        },
+        {
+          "nombre": "dibujo tecnico",
+          "nota": 7
+        },
+        {
+          "nombre": "fisica",
+          "nota": 8
+        },
+        {
+          "nombre": "taller",
+          "nota": 7
+        }
+      ],
+      "promedio": 7.5,
+      "profesores": [
+        "ruben calvi",
+        "ariel rivas",
+        "jose luis groppa",
+        "sergio chevez"
+      ]
+    },
+    {
+      "nombre": "alejandro",
+      "apellido": "bugna",
+      "dni": 16520349,
+      "idAlumno": "b68c6387-d956-49a2-a27f-71c5516f542d",
+      "contacto": "jandry@hotmail.com",
+      "materias": [
+        {
+          "nombre": "quimica",
+          "nota": 0
+        },
+        {
+          "nombre": "fisica",
+          "nota": 0
+        },
+        {
+          "nombre": "dibujo tecnico",
+          "nota": 0
+        },
+        {
+          "nombre": "termodinamica",
+          "nota": 0
+        },
+        {
+          "nombre": "taller",
+          "nota": 0
+        }
+      ],
+      "promedio": 0,
+      "profesores": [
+        "ruben calvi",
+        "jose luis groppa",
+        "ariel rivas",
+        "raul pandeles",
+        "sergio chevez"
+      ]
+    },
+    {
+      "nombre": "carlos",
+      "apellido": "perez",
+      "dni": 29756321,
+      "idAlumno": "cb8830d0-9882-4c68-9ccf-fdbf6f5c1a16",
+      "contacto": "charly@gamil.com",
+      "materias": [
+        {
+          "nombre": "fisica",
+          "nota": 5
+        },
+        {
+          "nombre": "taller",
+          "nota": 10
+        },
+        {
+          "nombre": "dibujo tecnico",
+          "nota": 8
+        },
+        {
+          "nombre": "procesos",
+          "nota": 4
+        },
+        {
+          "nombre": "matematica",
+          "nota": 7
+        }
+      ],
+      "promedio": 6.8,
+      "profesores": [
+        "jose luis groppa",
+        "sergio chevez",
+        "ariel rivas",
+        "roxana cipitria"
+      ]
+    },
+    {
+      "nombre": "julio",
+      "apellido": "sequeira",
+      "dni": 35843126,
+      "idAlumno": "f17623fa-cf9a-4abf-a206-dc33a474063f",
+      "contacto": "indio@outlook.com",
+      "materias": [
+        {
+          "nombre": "matematica",
+          "nota": 4
+        },
+        {
+          "nombre": "taller",
+          "nota": 8
+        },
+        {
+          "nombre": "procesos",
+          "nota": 7
+        },
+        {
+          "nombre": "termodinamica",
+          "nota": 3
+        },
+        {
+          "nombre": "dibujo tecnico",
+          "nota": 7
+        }
+      ],
+      "promedio": 5.8,
+      "profesores": [
+        "roxana cipitria",
+        "sergio chevez",
+        "raul pandeles",
+        "ariel rivas"
+      ]
+    },
+    {
+      "nombre": "federico",
+      "apellido": "aguilera",
+      "dni": 21458763,
+      "idAlumno": "75d9f4fc-7439-4539-b496-efe63d927b54",
+      "contacto": "2494875636",
+      "materias": [],
+      "promedio": 0,
+      "profesores": []
+    }
+  ]
